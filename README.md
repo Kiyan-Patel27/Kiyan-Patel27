@@ -5,7 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on... 
+
+### 🏡 Open House — Estate Agency Website
+Website for a family-run estate agency serving SW London & Surrey (Epsom,
+Kingston, Sutton) — home valuations, sales, lettings & property management.
+Designed and built end-to-end on Wix.
+
+[![Open House](https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.openhouseswlondonsurrey.com%2F?w=1000)](https://www.openhouseswlondonsurrey.com/)
+
+**Live site:** https://www.openhouseswlondonsurrey.com/
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
