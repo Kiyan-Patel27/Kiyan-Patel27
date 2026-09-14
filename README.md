@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Kiyan-Patel27/Kiyan-Patel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on... 
+## Projects
 
 ### 🏡 Open House — Estate Agency Website
 Website for a family-run estate agency serving SW London & Surrey (Epsom,
@@ -15,6 +8,13 @@ Designed and built end-to-end on Wix.
 [![Open House](https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.openhouseswlondonsurrey.com%2F?w=1000)](https://www.openhouseswlondonsurrey.com/)
 
 **Live site:** https://www.openhouseswlondonsurrey.com/
+
+<!--
+**Kiyan-Patel27/Kiyan-Patel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
